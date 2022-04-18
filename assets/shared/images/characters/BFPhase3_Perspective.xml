@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BFPhase3_Perspective.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down_Miss0000" x="0" y="0" width="513" height="494"/>
+	<SubTexture name="Idle0000" x="593" y="5" width="583" height="493"/>
+	<SubTexture name="Left_Miss0000" x="4664" y="988" width="499" height="573"/>
+	<SubTexture name="Miss_Right0000" x="499" y="2134" width="551" height="581"/>
+	<SubTexture name="Sing_Down0000" x="5" y="5" width="498" height="479"/>
+	<SubTexture name="Sing_Left0000" x="5" y="508" width="509" height="484"/>
+	<SubTexture name="Sing_Right0000" x="564" y="508" width="576" height="507"/>
+	<SubTexture name="Sing_Up0000" x="1190" y="5" width="514" height="552"/>
+	<SubTexture name="Up_Miss0000" x="5654" y="5825" width="512" height="632"/>
+</TextureAtlas>

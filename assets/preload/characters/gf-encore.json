@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				365,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wake",
+			"indices": [],
+			"name": "GF dancing anim"
+		},
+		{
+			"offsets": [
+				270,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				270,
+				17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				14,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				20,
+				-160
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				270,
+				17
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "GF Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF encore assets",
+	"position": [
+		130,
+		20
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
